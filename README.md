@@ -5,7 +5,7 @@ Basic Signs on a US Keyboard:
 
 - ! Exclamation Mark
 - @ "at" sign
-- # Hashtag
+- #Hashtag
 - $ Dollar Sign
 - % Percentage sign
 - ^ Caret Symbol
